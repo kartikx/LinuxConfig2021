@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/kartik/P4/p4-learning/exercises/03-L2_Flooding'
+let g:netrw_dirhist_8='/home/kartik/Desktop/Courses'
+let g:netrw_dirhist_7='/home/kartik/StudyMaterial/Notes/ComputerNetworks'
+let g:netrw_dirhist_6='/home/kartik/StudyMaterial/NetProg/CodeSnippets/Sockets/EchoClient'
+let g:netrw_dirhist_5='/home/kartik/StudyMaterial/NetProg/LabEx/Lab1'
+let g:netrw_dirhist_4='/home/kartik/LeetCode/Problems'
+let g:netrw_dirhist_3='/home/kartik/.config/zsh'
+let g:netrw_dirhist_2='/home/kartik/.config'
+let g:netrw_dirhist_1='/home/kartik/ProgrammingToLearn'
